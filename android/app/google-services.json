@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "748090900792",
+    "project_id": "voiceup-15c48",
+    "storage_bucket": "voiceup-15c48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748090900792:android:96d71cc8fcf513c280c1cd",
+        "android_client_info": {
+          "package_name": "com.example.gbvapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748090900792-4n0cvdp2mlfpnj8ql3dnhksi61ac7vjb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrfhsYCouWs6X7rKc9TUoJZFqu11_OymY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748090900792-4n0cvdp2mlfpnj8ql3dnhksi61ac7vjb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
