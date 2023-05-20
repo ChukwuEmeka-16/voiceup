@@ -1,6 +1,6 @@
 # gbvapp
 
-A new Flutter project.
+An Emergency alerts app with the purpose of aiding investigations into gender based crimes
 
 ## Getting Started
 
